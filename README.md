@@ -21,10 +21,14 @@ Todo
 Requirements:
 
     - Python v3.12.0
-    - node v21.7.1
-    - npm 10.5.0
+    - node v20.11.1
+    - npm v10.2.4
 
-### Frontend Requirements
+### Dev environment setup
+
+```./setup-dev-env.sh```
+
+### Frontend setip
 
 ```cd frontend && ./setup-dev-frontend.sh```
 
@@ -32,7 +36,7 @@ OR
 
 ```cd frontend && npm install```
 
-### Backend Requirements
+### Backend setup
 
 ```cd backend && ./setup-dev-backend.sh```
 
