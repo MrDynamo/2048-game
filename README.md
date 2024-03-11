@@ -18,12 +18,23 @@ Todo
 
 ## Contributing
 
-Guide
+Requirements:
+    - Python v3.12.0
+    - node v21.7.1
+    - npm 10.5.0
 
 ### Frontend Requirements
 
-cd frontend && npm install
+```cd frontend && ./setup-dev-frontend.sh```
+
+OR
+
+```cd frontend && npm install```
 
 ### Backend Requirements
 
-cd backend && source 2048-game/bin/activate
+```cd backend && ./setup-dev-backend.sh```
+
+OR
+
+```cd backend && source 2048-game/bin/activate && pip install -r requirements.txt```
