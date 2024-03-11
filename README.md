@@ -13,3 +13,17 @@ Interactive frontend built with Vue.js + TypeScript
 Create a RESTful API backend based on Python + Flask
 
 ### Github Actions
+
+Todo
+
+## Contributing
+
+Guide
+
+### Frontend Requirements
+
+cd frontend && npm install
+
+### Backend Requirements
+
+cd backend && source 2048-game/bin/activate
