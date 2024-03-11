@@ -1,5 +1,3 @@
-#!/bin/sh
-
-sudo source 2048-game/bin/activate
+#!/bin/bash
 
 pip install -r requirements.txt
