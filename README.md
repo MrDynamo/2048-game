@@ -19,6 +19,7 @@ Todo
 ## Contributing
 
 Requirements:
+
     - Python v3.12.0
     - node v21.7.1
     - npm 10.5.0
