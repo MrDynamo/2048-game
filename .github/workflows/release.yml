@@ -1,0 +1,8 @@
+name: Docker Build Production
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  
