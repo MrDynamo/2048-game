@@ -1,5 +1,5 @@
 # venv files
-/2048-game/*
+/2048-game
 
 # pycache files
-/__pycache__/*
+/__pycache__
